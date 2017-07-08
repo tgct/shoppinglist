@@ -9,4 +9,4 @@ Creating usable and useful app will be much appreciated, but side effect of this
 We are not likely to accept any pull requests at this moment, but things will certainly change as development will progress.
 
 ## License
-Application is developed under APGL license. For more information please check [LICENSE](../blob/master/LICENSE).
+Application is developed under APGL license. For more information please check [LICENSE](LICENSE).
